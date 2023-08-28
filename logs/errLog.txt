@@ -1,0 +1,12 @@
+20230721	19:07:52	3f0faf62-0214-417f-afaa-e5919059847b	Error: Not Allowed by CORS
+20230723	15:53:39	9175ae9c-ac12-4a8a-ab4b-1c8fa27e0ed7	SyntaxError: Unexpected token o in JSON at position 1
+20230723	15:54:13	ac6c80cc-31c4-4b61-b52f-8d13ca018345	SyntaxError: Unexpected token o in JSON at position 1
+20230723	16:09:11	a9fe03cc-d6ec-422f-b371-58bbf777765f	ReferenceError: saveDataToFile is not defined
+20230723	16:09:55	6942cb8a-3d9c-4b18-aaa7-f08cfe724458	TypeError: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+20230807	19:45:05	c2610989-c749-478d-bde5-c90583251398	Error: invalid expiresIn option for string payload
+20230807	19:46:22	5613e8a1-401d-4154-a03f-a3f69c7b3602	Error: invalid expiresIn option for string payload
+20230827	18:19:11	d3c3424f-0844-4802-b9b1-2eb6bce7c9df	SyntaxError: Unexpected token u in JSON at position 1
+20230827	19:24:02	ad965ade-826f-404a-bfe9-9cd00b17f299	SyntaxError: Unexpected token i in JSON at position 1
+20230827	19:25:07	18e1bfa9-4aff-4acd-b286-feecf83b3aa8	SyntaxError: Unexpected token i in JSON at position 1
+20230827	19:32:30	9b141e7f-b054-4b8e-ac10-11ac4a774de5	SyntaxError: Unexpected token ' in JSON at position 1
+20230827	19:32:43	6953d205-5675-4f53-9829-c46321ae4d4c	SyntaxError: Unexpected token ' in JSON at position 1
